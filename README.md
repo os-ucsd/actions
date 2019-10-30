@@ -6,7 +6,7 @@ Github Actions written by the Open Source community at UC San Diego!
 
 This repository contains [Github Actions](https://github.com/features/actions) - which are small actions people can use in Github workflows to automate certain tasks. The actions in this repository will be more specific to the open source community at UCSD, but anyone can use them or contribute back!
 
-Every directory in this repo are separate Github Actions - for example, the `/acsweb` directory contains a Github Action for deploying UCSD acsweb sites. 
+Every directory in this repo is a separate Github Action - for example, the `/acsweb` directory contains a Github Action for deploying UCSD acsweb sites. 
 
 ## Actions
 

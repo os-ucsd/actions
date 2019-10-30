@@ -1,4 +1,4 @@
-# Open Source @ UCSD Github Actions
+# Open Source @ UCSD Github Actions 🎬
 
 Github Actions written by the Open Source community at UC San Diego!
 
